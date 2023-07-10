@@ -10,4 +10,4 @@ if paginaSelecionada == 'Página 1':
     st.title('Video exemplo')
     st.selectbox('Selecione uma Opção',['Opção 1', 'Opção 2'])
 elif paginaSelecionada == 'Página 2':
-    st.title('Video exemplo')
+    st.title('Você esta na pagina 2')
